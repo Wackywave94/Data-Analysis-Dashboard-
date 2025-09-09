@@ -19,4 +19,5 @@ To design and develop an interactive excel dashboard that consolidates Blinkitâ€
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-<img width="1274" height="631" alt="Dashboard" src="https://github.com/user-attachments/assets/28263c0a-5df4-4df8-8c2a-c78708ebc35d" />
+<img width="1277" height="640" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/4d4a69ef-39d6-4421-8b03-aef0095caa65" />
+
